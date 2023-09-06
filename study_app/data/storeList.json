@@ -1,0 +1,13 @@
+[
+    {
+        "title" : "The Shawshank Redemption",
+        "averageStar" : 5,
+        "location" : "USA",
+        "year" : 1994,
+        "comment" : {
+            "name" : "John Doe",
+            "comment" : "This is a great movie!"
+        },
+        "image" : "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+    }
+]
